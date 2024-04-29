@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently learning **Next js **
 
-- 💬 Ask me about **Frontend,Javascript,React,web-technologies **
+- 💬 Ask me about **Frontend, Javascript, React, web-technologies, web-design, web-architecture **
 
 - 📫 How to reach me **riteshkate9009@gmail.com** 
 
