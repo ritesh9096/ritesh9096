@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kate</h1>
-<h3 align="center">Building Scalable Web and Mobile Applications with Expertise in React.js, React Native, Node.js, Express.js, MongoDB, and State Management (Redux/Zustand). Focused on Performance Optimization, API Integrations, and Creating Seamless User Experiences.</h3> 
+<h3 align="center">Building Scalable Web and Mobile Applications with Expertise in React.js, React Native, Node.js, Express.js, MongoDB, and State Management (Redux/Zustand). Focused on Performance Optimization, API Integrations, and Creating Seamless User Experiences .</h3> 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/coder-developer-concentrated-working-project-developing-programming-coding-technologies_569013-336.jpg?w=2000">
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh9096&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh9096" /> </p>
