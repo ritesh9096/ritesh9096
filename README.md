@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritesh Kate</h1>
+   <h1 align="center">Hi 👋, I'm Ritesh Kate</h1>
 <h3 align="center">Building Scalable Web and Mobile Applications with Expertise in React.js, React Native, Node.js, Express.js, MongoDB, and State Management (Redux/Zustand). Focused on Performance Optimization, API Integrations, and Creating Seamless User Experiences .</h3> 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/coder-developer-concentrated-working-project-developing-programming-coding-technologies_569013-336.jpg?w=2000">
    
@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh9096&show_icons=true&locale=en" alt="ritesh9096" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh9096&" alt="ritesh9096" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh9096&" alt="riteshkathe" /></p>
