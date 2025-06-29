@@ -6,7 +6,7 @@
   
 <p align="left"> <a href="https://twitter.com/ritesh_k_9" target="blank"><img src="https://img.shields.io/twitter/follow/ritesh_k_9?logo=twitter&style=for-the-badge" alt="ritesh_k_9" /></a> </p>
  
-- 🌱 I’m currently learning **Next js **
+- 🌱 I’m currently learning **Next js and backend **
 
 - 💬 Ask me about **Frontend, React, web-technologies, web-design, system-design, web-architecture, Redux **
 
