@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently learning **Next js and backend **
 
-- 💬 Ask me about **Frontend, React, web-technologies, web-design, system-design, web-architecture, Redux **
+- 💬 Ask me about **Frontend, React, web-technologies, web-design, system-design, web-architecture, Redux,supabase **
 
 - 📫 How to reach me **riteshkate9009@gmail.com** 
 
