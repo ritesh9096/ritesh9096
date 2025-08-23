@@ -4,7 +4,7 @@
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh9096&label=Profile%20views&color=0e75b6&style=flat" alt="ritiesh kathe" /> </p>
   
-<p align="left"> <a href="https://twitter.com/ritesh_k_9" target="blank"><img src="https://img.shields.io/twitter/follow/ritesh_k_9?logo=twitter&style=for-the-badge" alt="ritesh_k_9" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ritesh_k_9" target="blank"><img src="https://img.shields.io/twitter/follow/ritesh_k_9?logo=twitter&style=for-the-badge" alt="ritesh_k_99" /></a> </p>
  
 - 🌱 I’m currently learning **Next js and backend **
 
